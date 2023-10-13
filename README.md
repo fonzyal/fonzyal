@@ -6,4 +6,4 @@
 <br>
 Мечтаю создать что-то новое и уникальное.
 
-[![fonzyal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cuboidweb)](https://github.com/anuraghazra/github-readme-stats)
+[![cuboidweb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cuboidweb)](https://github.com/anuraghazra/github-readme-stats)
