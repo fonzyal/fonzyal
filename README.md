@@ -10,4 +10,4 @@
 <br>
 
 ### **Мои самые используемые языки**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosleepfortonightl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosleepfortonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
